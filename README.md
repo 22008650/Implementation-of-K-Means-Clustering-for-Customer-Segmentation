@@ -64,7 +64,7 @@ plt.legend()
 plt.grid(True)
 plt.axis("equal")
 plt.show()
-``
+```
 
 ## Output:
 # INSERTED DATASET:
